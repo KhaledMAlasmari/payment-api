@@ -165,7 +165,7 @@ DB_NAME = Payments
 
 ## Tests?
 Well... I wrote some but they needed a database to connect to which is a big no no. I found a way to mock it but I didn't have enough time to implement them.
-
+I know it's an important step that I skipped but switching databases gave me no other option but to procced without it. A valuable lesson I've learned.  
 ##
 Regardless of the result, I LEARNED A LOT. typescript, express, PostgreSQL, ORMs, and MongoDB which I had to switch from because I forgot that working with relations with MongoDB isn't straight forward.
  
